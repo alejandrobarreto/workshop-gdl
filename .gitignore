@@ -27,3 +27,8 @@ reminders.txt
 # Ignore CMake stuff
 **/CMakeFiles
 
+/workshop/credit-manager/src/Credit-Manager/nbproject/private/
+/workshop/credit-manager/src/Credit-Manager/build/
+/workshop/credit-manager/src/Credit-Manager/dist/
+/workshop/credit-manager/src/Communication-Adapter/nbproject/private/
+/workshop/credit-manager/src/Communication-Adapter/build/
